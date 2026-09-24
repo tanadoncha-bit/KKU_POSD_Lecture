@@ -1,6 +1,6 @@
 # KKU Principle of Software Design
 
-Repository สำหรับเก็บงาน Lab รายวิชา **CP353002 Principles of Software Design and Development**
+Repository สำหรับเก็บงาน Lecture รายวิชา **CP353002 Principles of Software Design and Development**
 
 ปีการศึกษา **2569 ภาคการศึกษาที่ 1**
 
@@ -22,12 +22,12 @@ Repository นี้ใช้สำหรับรวบรวมงาน Lectu
 
 ## Lectures
 
-| **Design Pattern**                                                                          | **Topic**          | **Branch**         |
-| ------------------------------------------------------------------------------------------- | ------------------ | ------------------ |
-| [**Lab 1**](https://github.com/tanadoncha-bit/KKU_POSD_Lecture/tree/Strategy_Pattern)       | Strategy Pattern   | `Strategy_Pattern` |
-| [**Lab 2**](https://github.com/tanadoncha-bit/KKU_POSD_Lecture/tree/Observer_Pattern)       | Observer Pattern   | `Observer_Pattern` |
-| [**Lab 3**](https://github.com/tanadoncha-bit/KKU_POSD_Lecture/tree/Factory_Pattern)        | Factory Pattern    | `Factory_Pattern`  |
-| [**Lab 4**](https://github.com/tanadoncha-bit/KKU_POSD_Lecture/tree/Decorator_Pattern)      | Decorator Pattern  | `Decorator_Pattern`|
+| **Design Pattern**                                                                                     | **Topic**          | **Branch**         |
+| ------------------------------------------------------------------------------------------------------ | ------------------ | ------------------ |
+| [**Strategy Pattern**](https://github.com/tanadoncha-bit/KKU_POSD_Lecture/tree/Strategy_Pattern)       | Strategy Pattern   | `Strategy_Pattern` |
+| [**Observer Pattern**](https://github.com/tanadoncha-bit/KKU_POSD_Lecture/tree/Observer_Pattern)       | Observer Pattern   | `Observer_Pattern` |
+| [**Factory Pattern**](https://github.com/tanadoncha-bit/KKU_POSD_Lecture/tree/Factory_Pattern)         | Factory Pattern    | `Factory_Pattern`  |
+| [**Decorator Pattern**](https://github.com/tanadoncha-bit/KKU_POSD_Lecture/tree/Decorator_Pattern)     | Decorator Pattern  | `Decorator_Pattern`|
 
 ---
 
